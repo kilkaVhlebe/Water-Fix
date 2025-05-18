@@ -1,0 +1,7 @@
+name: waterFix
+version: '1.0'
+main: org.kilka.waterFix.WaterFix
+api-version: '1.20'
+prefix: waterFix
+load: STARTUP
+authors: [ Kilka_v_HJIebe ]
